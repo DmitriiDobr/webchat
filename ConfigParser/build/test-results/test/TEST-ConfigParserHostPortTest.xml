@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConfigParserHostPortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-20T19:31:31" hostname="MBP-Dmitrij.Dlink" time="0.002">
+  <properties/>
+  <testcase name="testReadSettingsPort" classname="ConfigParserHostPortTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
